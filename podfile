@@ -1,0 +1,14 @@
+
+platform:ios,'8.0'
+
+target 'LYPurchasing' do
+
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'Masonry'
+pod 'SDCycleScrollView'
+pod 'RTRootNavigationController'
+pod 'MJRefresh'
+pod 'YYModel'
+
+end
