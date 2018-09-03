@@ -1,0 +1,694 @@
+{
+    "result": [
+        {
+            "catname": "服饰鞋包",
+            "result": [
+                {
+                    "strCatUrl": "fushixiebao",
+                    "strCatName": "服饰鞋包",
+                    "strBrandUrl": "coach",
+                    "strBrandName": "蔻驰",
+                    "strBrandEngName": "COACH",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/23/Co00xFk3bnOAQ4KYAAAOZ5YGw2Y971.jpg"
+                },
+                {
+                    "strCatUrl": "fushixiebao",
+                    "strCatName": "服饰鞋包",
+                    "strBrandUrl": "drmartens",
+                    "strBrandName": "马丁靴",
+                    "strBrandEngName": "Dr.Martens",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/2F/Co00xFk3bu-ARxJbAACVZE6xy3E605.jpg"
+                },
+                {
+                    "strCatUrl": "fushixiebao",
+                    "strCatName": "服饰鞋包",
+                    "strBrandUrl": "brooksbrothers",
+                    "strBrandName": "布克兄弟",
+                    "strBrandEngName": "Brooks Brothers",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/37/F6/Co00xFk3aRCAf8kqAAALT7FmG-A791.jpg"
+                },
+                {
+                    "strCatUrl": "fushixiebao",
+                    "strCatName": "服饰鞋包",
+                    "strBrandUrl": "rebeccaminkoff",
+                    "strBrandName": "瑞贝卡·明可弗",
+                    "strBrandEngName": "Rebecca Minkoff",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/37/EE/Co00xFk3aLOAM-JrAAAi2g0TS1g391.jpg"
+                },
+                {
+                    "strCatUrl": "fushixiebao",
+                    "strCatName": "服饰鞋包",
+                    "strBrandUrl": "timberland",
+                    "strBrandName": "添柏岚",
+                    "strBrandEngName": "Timberland",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/2A/Co00xFk3bryAR4VPAAAj1ImMmdM355.jpg"
+                },
+                {
+                    "strCatUrl": "fushixiebao",
+                    "strCatName": "服饰鞋包",
+                    "strBrandUrl": "calvinklein",
+                    "strBrandName": "Calvin Klein",
+                    "strBrandEngName": "Calvin Klein",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/27/Co00xFk3bpqAKUpCAAAVFhm5yn4992.jpg"
+                },
+                {
+                    "strCatUrl": "fushixiebao",
+                    "strCatName": "服饰鞋包",
+                    "strBrandUrl": "adidas",
+                    "strBrandName": "阿迪达斯",
+                    "strBrandEngName": "adidas",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/36/Co00xFk3b0GAKCuVAAASS3jJvqU230.jpg"
+                },
+                {
+                    "strCatUrl": "fushixiebao",
+                    "strCatName": "服饰鞋包",
+                    "strBrandUrl": "burberry",
+                    "strBrandName": "博柏利",
+                    "strBrandEngName": "Burberry",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/26/Co00xFk3boyAWESmAAAQqAToyYw763.jpg"
+                }
+            ]
+        },
+        {
+            "catname": "个护美妆",
+            "result": [
+                {
+                    "strCatUrl": "gehumeizhuang",
+                    "strCatName": "个护美妆",
+                    "strBrandUrl": "trilogy",
+                    "strBrandName": "趣乐活",
+                    "strBrandEngName": "Trilogy",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/26/Co00xFk3bpOAPGVLAACw8RLWOns194.jpg"
+                },
+                {
+                    "strCatUrl": "gehumeizhuang",
+                    "strCatName": "个护美妆",
+                    "strBrandUrl": "yvessaintlarent",
+                    "strBrandName": "圣罗兰",
+                    "strBrandEngName": "Yves Saint Larent",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/F9/C5/Co00xFim6qqAcwDQAACkrqeFCgY525.jpg"
+                },
+                {
+                    "strCatUrl": "gehumeizhuang",
+                    "strCatName": "个护美妆",
+                    "strBrandUrl": "haba",
+                    "strBrandName": "HABA",
+                    "strBrandEngName": "HABA",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/25/Co00xFk3bomAcRX3AADG7GKMQzY050.jpg"
+                },
+                {
+                    "strCatUrl": "gehumeizhuang",
+                    "strCatName": "个护美妆",
+                    "strBrandUrl": "shiseido",
+                    "strBrandName": "资生堂",
+                    "strBrandEngName": "Shiseido",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/37/Co00xFk3b0qAM4UHAAAOJAV-gSw459.jpg"
+                },
+                {
+                    "strCatUrl": "gehumeizhuang",
+                    "strCatName": "个护美妆",
+                    "strBrandUrl": "l'occitane",
+                    "strBrandName": "欧舒丹",
+                    "strBrandEngName": "L'Occitane",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/26/Co00xFk3boyAT4PnAAAMVvjU3w8033.jpg"
+                },
+                {
+                    "strCatUrl": "gehumeizhuang",
+                    "strCatName": "个护美妆",
+                    "strBrandUrl": "kohgendo",
+                    "strBrandName": "江原道",
+                    "strBrandEngName": "Koh Gen Do",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/29/Co00xFk3brKAaVaCAAA4s0syrNo455.jpg"
+                },
+                {
+                    "strCatUrl": "gehumeizhuang",
+                    "strCatName": "个护美妆",
+                    "strBrandUrl": "eucerin",
+                    "strBrandName": "优色林",
+                    "strBrandEngName": "Eucerin",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/37/F4/Co00xFk3aPWAcc2tAAATj28DaDI507.jpg"
+                },
+                {
+                    "strCatUrl": "gehumeizhuang",
+                    "strCatName": "个护美妆",
+                    "strBrandUrl": "dhc",
+                    "strBrandName": "蝶翠诗",
+                    "strBrandEngName": "DHC",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/24/Co00xFk3bniAGSB1AAAk25dntNI579.jpg"
+                }
+            ]
+        },
+        {
+            "catname": "日用百货",
+            "result": [
+                {
+                    "strCatUrl": "riyongbaihuo",
+                    "strCatName": "日用百货",
+                    "strBrandUrl": "thermos",
+                    "strBrandName": "膳魔师",
+                    "strBrandEngName": "Thermos",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/28/Co00xFk3bp2AGmAmAAHHyG4Nbzk393.jpg"
+                },
+                {
+                    "strCatUrl": "riyongbaihuo",
+                    "strCatName": "日用百货",
+                    "strBrandUrl": "unicharm",
+                    "strBrandName": "尤妮佳",
+                    "strBrandEngName": "Unicharm",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/23/Co00xFk3bnGAZhU9AADiVNB6SrE655.jpg"
+                },
+                {
+                    "strCatUrl": "riyongbaihuo",
+                    "strCatName": "日用百货",
+                    "strBrandUrl": "kobayashi",
+                    "strBrandName": "小林制药",
+                    "strBrandEngName": "Kobayashi",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/23/Co00xFk3bm2AFGYSAAA9YLaZqKc294.jpg"
+                },
+                {
+                    "strCatUrl": "riyongbaihuo",
+                    "strCatName": "日用百货",
+                    "strBrandUrl": "lion",
+                    "strBrandName": "狮王",
+                    "strBrandEngName": "Lion",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/27/Co00xFk3bpeAQ2xuAAAwwhWe83Q089.jpg"
+                },
+                {
+                    "strCatUrl": "riyongbaihuo",
+                    "strCatName": "日用百货",
+                    "strBrandUrl": "kao",
+                    "strBrandName": "花王",
+                    "strBrandEngName": "Kao",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/28/Co00xFk3bpyAVxNLAAAQu0q4izg011.jpg"
+                },
+                {
+                    "strCatUrl": "riyongbaihuo",
+                    "strCatName": "日用百货",
+                    "strBrandUrl": "okamoto",
+                    "strBrandName": "冈本",
+                    "strBrandEngName": "Okamoto",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/27/Co00xFk3bpmADh39AABvsVmDA_E558.jpg"
+                },
+                {
+                    "strCatUrl": "riyongbaihuo",
+                    "strCatName": "日用百货",
+                    "strBrandUrl": "zojirushi",
+                    "strBrandName": "象印",
+                    "strBrandEngName": "Zojirushi",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/23/Co00xFk3bnCATFjIAABAgHy9S5U955.jpg"
+                },
+                {
+                    "strCatUrl": "riyongbaihuo",
+                    "strCatName": "日用百货",
+                    "strBrandUrl": "rohto",
+                    "strBrandName": "乐敦",
+                    "strBrandEngName": "Rohto",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/2A/Co00xFk3br2AJXXQAABusDmZK7I327.jpg"
+                }
+            ]
+        },
+        {
+            "catname": "钟表首饰",
+            "result": [
+                {
+                    "strCatUrl": "zhongbiaoshoushi",
+                    "strCatName": "钟表首饰",
+                    "strBrandUrl": "swarovski",
+                    "strBrandName": "施华洛世奇",
+                    "strBrandEngName": "Swarovski",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/25/Co00xFk3boqAJhUwAAATFC7aFeI564.jpg"
+                },
+                {
+                    "strCatUrl": "zhongbiaoshoushi",
+                    "strCatName": "钟表首饰",
+                    "strBrandUrl": "pandora",
+                    "strBrandName": "潘多拉珠宝",
+                    "strBrandEngName": "Pandora",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/2B/Co00xFk3bsSAUWK2AAAWkWKXdNA446.jpg"
+                },
+                {
+                    "strCatUrl": "zhongbiaoshoushi",
+                    "strCatName": "钟表首饰",
+                    "strBrandUrl": "citizen",
+                    "strBrandName": "西铁城",
+                    "strBrandEngName": "Citizen",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/23/Co00xFk3bnSACoRIAAAeKC1k3iA949.jpg"
+                },
+                {
+                    "strCatUrl": "zhongbiaoshoushi",
+                    "strCatName": "钟表首饰",
+                    "strBrandUrl": "danielwellington",
+                    "strBrandName": "丹尼尔·惠灵顿DW",
+                    "strBrandEngName": "Daniel Wellington",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/23/Co00xFk3bnOAZLATAAAKwucnDyQ088.jpg"
+                },
+                {
+                    "strCatUrl": "zhongbiaoshoushi",
+                    "strCatName": "钟表首饰",
+                    "strBrandUrl": "dogeared",
+                    "strBrandName": "Dogeared",
+                    "strBrandEngName": "Dogeared",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/33/Co00xFk3bxiASt_lAACiT6vm1Us776.jpg"
+                },
+                {
+                    "strCatUrl": "zhongbiaoshoushi",
+                    "strCatName": "钟表首饰",
+                    "strBrandUrl": "casio",
+                    "strBrandName": "卡西欧",
+                    "strBrandEngName": "Casio",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/26/Co00xFk3boyAO6CZAAAPstR3Tws221.jpg"
+                },
+                {
+                    "strCatUrl": "zhongbiaoshoushi",
+                    "strCatName": "钟表首饰",
+                    "strBrandUrl": "timex",
+                    "strBrandName": "天美时",
+                    "strBrandEngName": "Timex",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/30/Co00xFk3bvKAbTEEAAAMD9MoKmg550.jpg"
+                },
+                {
+                    "strCatUrl": "zhongbiaoshoushi",
+                    "strCatName": "钟表首饰",
+                    "strBrandUrl": "seiko",
+                    "strBrandName": "精工",
+                    "strBrandEngName": "Seiko",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/24/Co00xFk3bniAfiRUAAAOr8V9YjY314.jpg"
+                }
+            ]
+        },
+        {
+            "catname": "母婴用品",
+            "result": [
+                {
+                    "strCatUrl": "muyingyongpin",
+                    "strCatName": "母婴用品",
+                    "strBrandUrl": "pigeon",
+                    "strBrandName": "贝亲",
+                    "strBrandEngName": "Pigeon",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/25/Co00xFk3boqAY6s3AAAhk72l29g792.jpg"
+                },
+                {
+                    "strCatUrl": "muyingyongpin",
+                    "strCatName": "母婴用品",
+                    "strBrandUrl": "merries",
+                    "strBrandName": "花王妙而舒",
+                    "strBrandEngName": "Merries",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/23/Co00xFk3bnCATkmyAAKXp5UUAkU350.jpg"
+                },
+                {
+                    "strCatUrl": "muyingyongpin",
+                    "strCatName": "母婴用品",
+                    "strBrandUrl": "carters",
+                    "strBrandName": "卡特",
+                    "strBrandEngName": "Carter's",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/37/F0/Co00xFk3aMyAD9cgAABgXerWTI0788.jpg"
+                },
+                {
+                    "strCatUrl": "muyingyongpin",
+                    "strCatName": "母婴用品",
+                    "strBrandUrl": "medela",
+                    "strBrandName": "美德乐",
+                    "strBrandEngName": "Medela",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/24/Co00xFk3bn-AbZrlAAAgZymufkM205.jpg"
+                },
+                {
+                    "strCatUrl": "muyingyongpin",
+                    "strCatName": "母婴用品",
+                    "strBrandUrl": "betta",
+                    "strBrandName": "贝塔",
+                    "strBrandEngName": "Betta",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/F9/E2/Co00xFim8CSAQyKqAABybVJyn2k378.jpg"
+                },
+                {
+                    "strCatUrl": "muyingyongpin",
+                    "strCatName": "母婴用品",
+                    "strBrandUrl": "hipp",
+                    "strBrandName": "喜宝",
+                    "strBrandEngName": "HIPP",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/23/Co00xFk3bnCALILXAAAUT66RIbw899.jpg"
+                },
+                {
+                    "strCatUrl": "muyingyongpin",
+                    "strCatName": "母婴用品",
+                    "strBrandUrl": "goon",
+                    "strBrandName": "大王",
+                    "strBrandEngName": "Goo.N",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/26/Co00xFk3bpGAeiNWAAMOm-ks-kE053.jpg"
+                },
+                {
+                    "strCatUrl": "muyingyongpin",
+                    "strCatName": "母婴用品",
+                    "strBrandUrl": "aptamil",
+                    "strBrandName": "爱他美",
+                    "strBrandEngName": "Aptamil",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/26/Co00xFk3bpGAbqrpAABns9KrIJA142.jpg"
+                }
+            ]
+        },
+        {
+            "catname": "运动户外",
+            "result": [
+                {
+                    "strCatUrl": "yundonghuwai",
+                    "strCatName": "运动户外",
+                    "strBrandUrl": "underarmour",
+                    "strBrandName": "安德玛",
+                    "strBrandEngName": "Under Armour",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/2C/Co00xFk3bs6ACBt6AAARMm9Tu8w318.jpg"
+                },
+                {
+                    "strCatUrl": "yundonghuwai",
+                    "strCatName": "运动户外",
+                    "strBrandUrl": "arcteryx",
+                    "strBrandName": "始祖鸟",
+                    "strBrandEngName": "Arc'Teryx",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/33/Co00xFk3byCATnOlAAAxwjLkoaw047.jpg"
+                },
+                {
+                    "strCatUrl": "yundonghuwai",
+                    "strCatName": "运动户外",
+                    "strBrandUrl": "canadagoose",
+                    "strBrandName": "加拿大鹅",
+                    "strBrandEngName": "Canada Goose",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/37/F6/Co00xFk3aRGABl1CAAFYBojDRus277.jpg"
+                },
+                {
+                    "strCatUrl": "yundonghuwai",
+                    "strCatName": "运动户外",
+                    "strBrandUrl": "cwx",
+                    "strBrandName": "CW-X",
+                    "strBrandEngName": "CW-X",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/37/F0/Co00xFk3aNCAXNnkAABYyiIkDFw079.jpg"
+                },
+                {
+                    "strCatUrl": "yundonghuwai",
+                    "strCatName": "运动户外",
+                    "strBrandUrl": "newbalance",
+                    "strBrandName": "新百伦",
+                    "strBrandEngName": "New Balance",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/29/Co00xFk3bqeANHeBAAARpBBDgBk088.jpg"
+                },
+                {
+                    "strCatUrl": "yundonghuwai",
+                    "strCatName": "运动户外",
+                    "strBrandUrl": "asics",
+                    "strBrandName": "亚瑟士",
+                    "strBrandEngName": "Asics",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/28/Co00xFk3bp6ABhSyAAAZ2iqat1U470.jpg"
+                },
+                {
+                    "strCatUrl": "yundonghuwai",
+                    "strCatName": "运动户外",
+                    "strBrandUrl": "skechers",
+                    "strBrandName": "斯凯奇",
+                    "strBrandEngName": "Skechers",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/30/Co00xFk3bvOADdGCAAANqNoZ2sE044.jpg"
+                },
+                {
+                    "strCatUrl": "yundonghuwai",
+                    "strCatName": "运动户外",
+                    "strBrandUrl": "saucony",
+                    "strBrandName": "索康尼",
+                    "strBrandEngName": "Saucony",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/2A/Co00xFk3br2ARmAJAABZqXtEHRs929.jpg"
+                }
+            ]
+        },
+        {
+            "catname": "食品保健",
+            "result": [
+                {
+                    "strCatUrl": "shipinbaojian",
+                    "strCatName": "食品保健",
+                    "strBrandUrl": "meji",
+                    "strBrandName": "明治",
+                    "strBrandEngName": "Meji",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/F9/DD/Co00xFim7ySAKLNxAACGSAOZfOI879.jpg"
+                },
+                {
+                    "strCatUrl": "shipinbaojian",
+                    "strCatName": "食品保健",
+                    "strBrandUrl": "calbee",
+                    "strBrandName": "卡乐比",
+                    "strBrandEngName": "Calbee",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/23/Co00xFk3bnWAWufoAABFOvg1xWA591.jpg"
+                },
+                {
+                    "strCatUrl": "shipinbaojian",
+                    "strCatName": "食品保健",
+                    "strBrandUrl": "comvita",
+                    "strBrandName": "康维他",
+                    "strBrandEngName": "Comvita",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/23/Co00xFk3bnaABorgAAA3Qdbufqw714.jpg"
+                },
+                {
+                    "strCatUrl": "shipinbaojian",
+                    "strCatName": "食品保健",
+                    "strBrandUrl": "swisse",
+                    "strBrandName": "瑞思",
+                    "strBrandEngName": "Swisse",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/38/Co00xFk3b1WAQsXDAABosgtbzgg049.jpg"
+                },
+                {
+                    "strCatUrl": "shipinbaojian",
+                    "strCatName": "食品保健",
+                    "strBrandUrl": "blackmores",
+                    "strBrandName": "澳佳宝",
+                    "strBrandEngName": "Blackmores",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/23/Co00xFk3bnCAIJPmAACrgzcaF0E664.jpg"
+                },
+                {
+                    "strCatUrl": "shipinbaojian",
+                    "strCatName": "食品保健",
+                    "strBrandUrl": "bioisland",
+                    "strBrandName": "佰澳朗德",
+                    "strBrandEngName": "Bio Island",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/25/Co00xFk3boeAYy3uAABLfYL3uDc427.jpg"
+                },
+                {
+                    "strCatUrl": "shipinbaojian",
+                    "strCatName": "食品保健",
+                    "strBrandUrl": "orihiro",
+                    "strBrandName": "立喜乐",
+                    "strBrandEngName": "Orihiro",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/33/Co00xFk3bxeACRHtAAB5SZgWrJs643.jpg"
+                },
+                {
+                    "strCatUrl": "shipinbaojian",
+                    "strCatName": "食品保健",
+                    "strBrandUrl": "redseal",
+                    "strBrandName": "红印",
+                    "strBrandEngName": "Red Seal",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/23/Co00xFk3bnOAUT76AAEoQdVA-0w897.jpg"
+                }
+            ]
+        },
+        {
+            "catname": "玩模乐器",
+            "result": [
+                {
+                    "strCatUrl": "wanmoleqi",
+                    "strCatName": "玩模乐器",
+                    "strBrandUrl": "disney",
+                    "strBrandName": "迪士尼",
+                    "strBrandEngName": "Disney",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/2C/Co00xFk3bsqALrJYAAATEu258QM361.jpg"
+                },
+                {
+                    "strCatUrl": "wanmoleqi",
+                    "strCatName": "玩模乐器",
+                    "strBrandUrl": "lego",
+                    "strBrandName": "乐高",
+                    "strBrandEngName": "Lego",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/24/Co00xFk3bniAI3wEAABkm-pQZG0750.jpg"
+                },
+                {
+                    "strCatUrl": "wanmoleqi",
+                    "strCatName": "玩模乐器",
+                    "strBrandUrl": "steiff",
+                    "strBrandName": "德国史泰福",
+                    "strBrandEngName": "Steiff",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/01/Co00xFk3aZmAMHwCAABECsAaGXU021.jpg"
+                },
+                {
+                    "strCatUrl": "wanmoleqi",
+                    "strCatName": "玩模乐器",
+                    "strBrandUrl": "fisherprice",
+                    "strBrandName": "费雪",
+                    "strBrandEngName": "Fisher Price",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/F9/EB/Co00xFim8cGALKQVAADH4g3FWwI585.jpg"
+                },
+                {
+                    "strCatUrl": "wanmoleqi",
+                    "strCatName": "玩模乐器",
+                    "strBrandUrl": "hasbro",
+                    "strBrandName": "孩之宝",
+                    "strBrandEngName": "Hasbro",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/27/Co00xFk3bpiANshCAABEoY7S_Fg837.jpg"
+                },
+                {
+                    "strCatUrl": "wanmoleqi",
+                    "strCatName": "玩模乐器",
+                    "strBrandUrl": "gund",
+                    "strBrandName": "Gund",
+                    "strBrandEngName": "Gund",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/37/F1/Co00xFk3aNyAS8pgAAFIWavNtxY240.jpg"
+                },
+                {
+                    "strCatUrl": "wanmoleqi",
+                    "strCatName": "玩模乐器",
+                    "strBrandUrl": "littletikes",
+                    "strBrandName": "小泰克",
+                    "strBrandEngName": "Little Tikes",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/38/Co00xFk3b1qAUXaiAAA9Xg6UbJs613.jpg"
+                },
+                {
+                    "strCatUrl": "wanmoleqi",
+                    "strCatName": "玩模乐器",
+                    "strBrandUrl": "bandai",
+                    "strBrandName": "万代",
+                    "strBrandEngName": "Bandai",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/27/Co00xFk3bpqAalYGAAA9S61E4uE555.jpg"
+                }
+            ]
+        },
+        {
+            "catname": "家用电器",
+            "result": [
+                {
+                    "strCatUrl": "jiayongdianqi",
+                    "strCatName": "家用电器",
+                    "strBrandUrl": "foreo",
+                    "strBrandName": "斐珞尔",
+                    "strBrandEngName": "FOREO",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/2B/Co00xFk3bseAHhl8AAAUA9Lp7gU217.jpg"
+                },
+                {
+                    "strCatUrl": "jiayongdianqi",
+                    "strCatName": "家用电器",
+                    "strBrandUrl": "panasonic",
+                    "strBrandName": "松下",
+                    "strBrandEngName": "Panasonic",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/38/Co00xFk3b1WAGhI-AAAOp4mvgs0502.jpg"
+                },
+                {
+                    "strCatUrl": "jiayongdianqi",
+                    "strCatName": "家用电器",
+                    "strBrandUrl": "philips",
+                    "strBrandName": "飞利浦",
+                    "strBrandEngName": "Philips",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/35/Co00xFk3bzSAD1zpAABSFQR342M243.jpg"
+                },
+                {
+                    "strCatUrl": "jiayongdianqi",
+                    "strCatName": "家用电器",
+                    "strBrandUrl": "braun",
+                    "strBrandName": "德国博朗",
+                    "strBrandEngName": "Braun",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/23/Co00xFk3bnGAGo9fAAB2gnsfwLg122.jpg"
+                },
+                {
+                    "strCatUrl": "jiayongdianqi",
+                    "strCatName": "家用电器",
+                    "strBrandUrl": "delonghi",
+                    "strBrandName": "德龙",
+                    "strBrandEngName": "DeLonghi",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/26/Co00xFk3bo2AfQqEAADclIRlZeo341.jpg"
+                },
+                {
+                    "strCatUrl": "jiayongdianqi",
+                    "strCatName": "家用电器",
+                    "strBrandUrl": "blueair",
+                    "strBrandName": "布鲁雅尔",
+                    "strBrandEngName": "Blueair",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/2A/Co00xFk3bryACCLvAABgSufwZ2I491.jpg"
+                },
+                {
+                    "strCatUrl": "jiayongdianqi",
+                    "strCatName": "家用电器",
+                    "strBrandUrl": "honeywell",
+                    "strBrandName": "霍尼韦尔",
+                    "strBrandEngName": "Honey Well",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/25/Co00xFk3boSAKVUqAAAv87sTCVU969.jpg"
+                },
+                {
+                    "strCatUrl": "jiayongdianqi",
+                    "strCatName": "家用电器",
+                    "strBrandUrl": "hitachi",
+                    "strBrandName": "日立",
+                    "strBrandEngName": "Hitachi",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/25/Co00xFk3boSAJZeDAABOW7FY-pI034.jpg"
+                }
+            ]
+        },
+        {
+            "catname": "电脑数码",
+            "result": [
+                {
+                    "strCatUrl": "diannaoshuma",
+                    "strCatName": "电脑数码",
+                    "strBrandUrl": "Marshall",
+                    "strBrandName": "马歇尔",
+                    "strBrandEngName": "Marshall",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/0A/5F/Co00xFh3ABmAZRZQAAA0FqxBG_o982.jpg"
+                },
+                {
+                    "strCatUrl": "diannaoshuma",
+                    "strCatName": "电脑数码",
+                    "strBrandUrl": "beats",
+                    "strBrandName": "Beats",
+                    "strBrandEngName": "Beats",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/37/EF/Co00xFk3aMKABIWKAABGu77gCoo176.jpg"
+                },
+                {
+                    "strCatUrl": "diannaoshuma",
+                    "strCatName": "电脑数码",
+                    "strBrandUrl": "fitbit",
+                    "strBrandName": "Fitbit",
+                    "strBrandEngName": "Fitbit",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/27/Co00xFk3bpiAdzZ3AAAUW4fB860203.jpg"
+                },
+                {
+                    "strCatUrl": "diannaoshuma",
+                    "strCatName": "电脑数码",
+                    "strBrandUrl": "beyerdynamic",
+                    "strBrandName": "拜亚动力",
+                    "strBrandEngName": "Beyerdynamic",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/36/Co00xFk3bzyAePXwAACxzibyZ5k688.jpg"
+                },
+                {
+                    "strCatUrl": "diannaoshuma",
+                    "strCatName": "电脑数码",
+                    "strBrandUrl": "sony",
+                    "strBrandName": "索尼",
+                    "strBrandEngName": "Sony",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/26/Co00xFk3bpKAaJ32AAAP6fZxKAY823.jpg"
+                },
+                {
+                    "strCatUrl": "diannaoshuma",
+                    "strCatName": "电脑数码",
+                    "strBrandUrl": "microsoft",
+                    "strBrandName": "微软",
+                    "strBrandEngName": "Microsoft",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/26/Co00xFk3bpGAKl2oAAArQiknm6o984.jpg"
+                },
+                {
+                    "strCatUrl": "diannaoshuma",
+                    "strCatName": "电脑数码",
+                    "strBrandUrl": "logitech",
+                    "strBrandName": "罗技",
+                    "strBrandEngName": "Logitech",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/38/24/Co00xFk3boGAOTjoAABqTXh1wrY861.jpg"
+                },
+                {
+                    "strCatUrl": "diannaoshuma",
+                    "strCatName": "电脑数码",
+                    "strBrandUrl": "GoPro",
+                    "strBrandName": "GoPro",
+                    "strBrandEngName": "GoPro",
+                    "strBrandLogo": "http://picture.biyabi.com/group1/M00/0A/5F/Co00xFh3ANCANgqfAABjrNKk9UA260.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -10,5 +10,7 @@ pod 'SDCycleScrollView'
 pod 'RTRootNavigationController'
 pod 'MJRefresh'
 pod 'YYModel'
+pod 'SPPageMenu'
+pod 'MJExtension'
 
 end

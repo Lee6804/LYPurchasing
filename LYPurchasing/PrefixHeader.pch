@@ -12,6 +12,22 @@
 // Include any system framework and library headers here that should be included in all compilation units.
 // You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
 
+
+#import <AFNetworking.h>
+#import <UIImageView+WebCache.h>
+#import <Masonry.h>
+#import <SDCycleScrollView.h>
+#import <YYModel.h>
+#import <MJRefresh.h>
+#import <RTRootNavigationController.h>
+#import <SPPageMenu.h>
+#import <MJExtension.h>
+
+#import "UIView+LYFrame.h"
+
+#import "LYMethod.h"
+#import "LYHttpTool.h"
+
 /** 颜色*/
 #define RGBColor(r,g,b)  [UIColor colorWithRed:(r)/255.0f green:(g)/255.0f blue:(b)/255.0f alpha:1]
 #define RGBAColor(r,g,b,a)  [UIColor colorWithRed:(r)/255.0f green:(g)/255.0f blue:(b)/255.0f alpha:(a)]
@@ -19,6 +35,8 @@
 
 #define MAINCOLOR [UIColor colorWithRed:216.0/255.0 green:30.0/255.0 blue:6.0/255.0 alpha:1]
 #define BACKGROUNDCOLOR [UIColor colorWithRed:240.0/255.0 green:240.0/255.0 blue:240.0/255.0 alpha:1]
+#define TABBACKGCOLOR RGB16Color(0xFFF8F8FF)
+#define BORDERCOLOR RGBColor(215, 215, 215)
 
 #pragma mark- 屏幕适配
 #pragma mark 判断是否为4或4s

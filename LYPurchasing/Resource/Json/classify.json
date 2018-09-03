@@ -1,0 +1,264 @@
+[
+    {
+        "strGroupUrl": "CatUrl",
+        "strGroupName": "热门类别",
+        "strGroupEngName": "",
+        "iShowType": "1",
+        "ListHotTag": [
+            {
+                "strGroupUrl": "CatUrl",
+                "strTagUrl": "mianbuhuli",
+                "strTagName": "面部护理",
+                "strTagEngName": "",
+                "strTagDes": "护肤 面膜 眼部护理",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/02/C7/Co00xFiphEuAQgg9AAAapr4FCS8083.jpg",
+                "levelId": 2
+            },
+            {
+                "strGroupUrl": "CatUrl",
+                "strTagUrl": "nanbiao",
+                "strTagName": "男表",
+                "strTagEngName": "",
+                "strTagDes": "卡西欧 西铁城 天美时",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/F3/Co00xFim80aAGuZEAAA5rQGvhSU309.jpg",
+                "levelId": 3
+            },
+            {
+                "strGroupUrl": "CatUrl",
+                "strTagUrl": "yundongxiewa",
+                "strTagName": "运动鞋袜",
+                "strTagEngName": "",
+                "strTagDes": "跑步鞋 训练鞋 运动包",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/F4/Co00xFim83SAHpj4AAAhKD41XmU627.jpg",
+                "levelId": 2
+            },
+            {
+                "strGroupUrl": "CatUrl",
+                "strTagUrl": "chuweiyongpin",
+                "strTagName": "厨卫用品",
+                "strTagEngName": "",
+                "strTagDes": "保温杯 滤水壶 烹饪锅具",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/F9/Co00xFim9D-ACaokAAAYcYJdofY418.jpg",
+                "levelId": 2
+            },
+            {
+                "strGroupUrl": "CatUrl",
+                "strTagUrl": "nubiao",
+                "strTagName": "女表",
+                "strTagEngName": "",
+                "strTagDes": "英弗他 雷达 天势",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/F7/Co00xFim8-aAXvtSAAApDYiFqiM802.jpg",
+                "levelId": 3
+            },
+            {
+                "strGroupUrl": "CatUrl",
+                "strTagUrl": "weiyangyongpin",
+                "strTagName": "喂养用品",
+                "strTagEngName": "",
+                "strTagDes": "奶瓶 安抚类 碗盘",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/02/FD/Co00xFipkNqAOw6UAAAiEzXSwfQ220.jpg",
+                "levelId": 2
+            },
+            {
+                "strGroupUrl": "CatUrl",
+                "strTagUrl": "nvbao",
+                "strTagName": "女包",
+                "strTagEngName": "",
+                "strTagDes": "手提包 斜挎包 双肩包",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/ED/Co00xFim8iCAbca_AAAdIua2umg338.jpg",
+                "levelId": 2
+            },
+            {
+                "strGroupUrl": "CatUrl",
+                "strTagUrl": "shenghuoyongpin",
+                "strTagName": "生活用品",
+                "strTagEngName": "",
+                "strTagDes": "家居清洁  急救卫生 缝纫",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/F0/Co00xFim8sWAPpS7AAAcx6nCJf4901.jpg",
+                "levelId": 2
+            },
+            {
+                "strGroupUrl": "CatUrl",
+                "strTagUrl": "nanxie",
+                "strTagName": "男鞋",
+                "strTagEngName": "",
+                "strTagDes": "休闲鞋 男靴 正装鞋",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/D5/Co00xFim7cWAFtEqAAAgjAxpwEQ309.jpg",
+                "levelId": 2
+            },
+            {
+                "strGroupUrl": "CatUrl",
+                "strTagUrl": "xihuyongpin",
+                "strTagName": "洗护用品",
+                "strTagEngName": "",
+                "strTagDes": "宝宝护肤 洗衣液 座便器",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/E6/Co00xFim8PeAHGkZAAAhRzPfdGU577.jpg",
+                "levelId": 2
+            },
+            {
+                "strGroupUrl": "CatUrl",
+                "strTagUrl": "niaokushijin",
+                "strTagName": "尿裤湿巾",
+                "strTagEngName": "",
+                "strTagDes": "拉拉裤 尿垫 婴儿湿巾",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/02/F6/Co00xFipj7eAMuTvAABTma04P60884.jpg",
+                "levelId": 2
+            },
+            {
+                "strGroupUrl": "CatUrl",
+                "strTagUrl": "baojianpin",
+                "strTagName": "保健品",
+                "strTagEngName": "",
+                "strTagDes": "酵素 增强免疫 肠胃养护",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/EC/Co00xFim8fqABM0TAAAkBdtgS7M559.jpg",
+                "levelId": 2
+            },
+            {
+                "strGroupUrl": "CatUrl",
+                "strTagUrl": "nvxie",
+                "strTagName": "女鞋",
+                "strTagEngName": "",
+                "strTagDes": "踝靴 筒靴 高跟鞋",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/DA/Co00xFim7raAZmKAAAAyX2tO3WQ151.jpg",
+                "levelId": 2
+            },
+            {
+                "strGroupUrl": "CatUrl",
+                "strTagUrl": "nanzhuang",
+                "strTagName": "男装",
+                "strTagEngName": "",
+                "strTagDes": "男衬衫 夹克 羽绒服",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/F6/Co00xFim88OADPusAAAf_qbnTAA355.jpg",
+                "levelId": 2
+            }
+        ]
+    },
+    {
+        "strGroupUrl": "MallUrl",
+        "strGroupName": "热门电商",
+        "strGroupEngName": "",
+        "iShowType": "2",
+        "ListHotTag": [
+            {
+                "strGroupUrl": "MallUrl",
+                "strTagUrl": "amazon_co_jp",
+                "strTagName": "日本亚马逊",
+                "strTagEngName": "Amazon Japan",
+                "strTagDes": "",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/DA/Co00xFim7qGAJp7zAACVhcq30go957.jpg"
+            },
+            {
+                "strGroupUrl": "MallUrl",
+                "strTagUrl": "amazon",
+                "strTagName": "美国亚马逊",
+                "strTagEngName": "Amazon",
+                "strTagDes": "",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/C3/Co00xFim6lmAdKOnAAA8ybtZXF8740.jpg"
+            },
+            {
+                "strGroupUrl": "MallUrl",
+                "strTagUrl": "amazon_de",
+                "strTagName": "德国亚马逊",
+                "strTagEngName": "Amazon DE",
+                "strTagDes": "",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/DD/Co00xFim7ySAY-VrAAC8cWafLIM682.jpg"
+            },
+            {
+                "strGroupUrl": "MallUrl",
+                "strTagUrl": "6pm",
+                "strTagName": "6pm",
+                "strTagEngName": "6pm",
+                "strTagDes": "",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/02/FA/Co00xFipkFWANVHeAABfAI9PNSM395.jpg"
+            },
+            {
+                "strGroupUrl": "MallUrl",
+                "strTagUrl": "backcountry",
+                "strTagName": "BackCountry",
+                "strTagEngName": "BackCountry",
+                "strTagDes": "",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/F5/Co00xFim85eAFyk5AABT4Bukj60952.jpg"
+            },
+            {
+                "strGroupUrl": "MallUrl",
+                "strTagUrl": "pharmacyonline_com_au",
+                "strTagName": "Pharmacy Online",
+                "strTagEngName": "Pharmacy Online",
+                "strTagDes": "",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/02/ED/Co00xFipjj6AZEnnAABILKGRfh4911.jpg"
+            },
+            {
+                "strGroupUrl": "MallUrl",
+                "strTagUrl": "chemistwarehouse_com_au",
+                "strTagName": "Chemist Warehouse",
+                "strTagEngName": "Chemist Warehouse",
+                "strTagDes": "",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/C8/Co00xFim6zqAXasZAAE6y-luo_o313.jpg"
+            },
+            {
+                "strGroupUrl": "MallUrl",
+                "strTagUrl": "us_asos",
+                "strTagName": "ASOS美国官网",
+                "strTagEngName": "ASOS",
+                "strTagDes": "",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/DA/Co00xFim7qGAfo8EAABLIj9a1pc576.jpg"
+            },
+            {
+                "strGroupUrl": "MallUrl",
+                "strTagUrl": "jomashop",
+                "strTagName": "Jomashop",
+                "strTagEngName": "Jomashop",
+                "strTagDes": "",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/03/01/Co00xFipkeKAFmqnAAAsEO2JYrM366.jpg"
+            },
+            {
+                "strGroupUrl": "MallUrl",
+                "strTagUrl": "brooksbrothers",
+                "strTagName": "Brooks Brothers美国官网",
+                "strTagEngName": "Brooks Brothers",
+                "strTagDes": "",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/F6/Co00xFim88mAVWr3AADXbrb7blM898.jpg"
+            },
+            {
+                "strGroupUrl": "MallUrl",
+                "strTagUrl": "joesnewbalanceoutlet",
+                "strTagName": "Joe's NB Outlet",
+                "strTagEngName": "Joe's NB Outlet",
+                "strTagDes": "",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/02/E7/Co00xFipjQuAJuMWAABNeq5TbDg032.jpg"
+            },
+            {
+                "strGroupUrl": "MallUrl",
+                "strTagUrl": "swarovski",
+                "strTagName": "swarovski美国官网",
+                "strTagEngName": "SWAROVSKI",
+                "strTagDes": "",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/ED/Co00xFim8jiAASzWAACj69LygSk735.jpg"
+            },
+            {
+                "strGroupUrl": "MallUrl",
+                "strTagUrl": "healthpost_co_nz",
+                "strTagName": "Health Post",
+                "strTagEngName": "Health Post",
+                "strTagDes": "",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/02/E4/Co00xFipjJGAAVGkAABhPjNfcZc781.jpg"
+            },
+            {
+                "strGroupUrl": "MallUrl",
+                "strTagUrl": "iherb",
+                "strTagName": "iHerb",
+                "strTagEngName": "iHerb",
+                "strTagDes": "",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/F9/BF/Co00xFim6ZGACvv_AAA-8jkSNQc630.jpg"
+            },
+            {
+                "strGroupUrl": "MallUrl",
+                "strTagUrl": "kenko",
+                "strTagName": "Kenko官网",
+                "strTagEngName": "Kenko",
+                "strTagDes": "",
+                "strTagImage": "http://picture.biyabi.com/group1/M00/03/0A/Co00xFipk3eAewx5AACtATJBK9A118.jpg"
+            }
+        ]
+    }
+]

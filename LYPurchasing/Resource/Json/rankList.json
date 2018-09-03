@@ -1,0 +1,31 @@
+{
+	"result": {
+		"infolist": [{
+			"CatName": "个护美妆",
+			"CatUrl": "gehumeizhuang"
+		}, {
+			"CatName": "服饰鞋包",
+			"CatUrl": "fushixiebao"
+		}, {
+			"CatName": "运动户外",
+			"CatUrl": "yundonghuwai"
+		}, {
+			"CatName": "钟表首饰",
+			"CatUrl": "zhongbiaoshoushi"
+		}, {
+			"CatName": "母婴用品",
+			"CatUrl": "muyingyongpin"
+		}, {
+			"CatName": "食品保健",
+			"CatUrl": "shipinbaojian"
+		}, {
+			"CatName": "日用百货",
+			"CatUrl": "riyongbaihuo"
+		}, {
+			"CatName": "家用电器",
+			"CatUrl": "jiayongdianqi"
+		}]
+	},
+	"code": 200,
+	"message": ""
+}

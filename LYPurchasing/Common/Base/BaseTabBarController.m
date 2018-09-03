@@ -27,6 +27,16 @@
     tabBarView.backgroundColor = [UIColor whiteColor];
     [self.tabBar addSubview:tabBarView];
     
+//    CGRect rect = CGRectMake(0, 0, MainWidth, MainHeight);
+//    UIGraphicsBeginImageContext(rect.size);
+//    CGContextRef context = UIGraphicsGetCurrentContext();
+//    CGContextSetFillColorWithColor(context, [[UIColor clearColor] CGColor]);
+//    CGContextFillRect(context, rect);
+//    UIImage *img = UIGraphicsGetImageFromCurrentImageContext();
+//    UIGraphicsEndImageContext();
+//    [self.tabBar setBackgroundImage:img];
+//    [self.tabBar setShadowImage:img];
+
     [self setupVC];
 }
 
@@ -39,7 +49,7 @@
     [self addChildVC:classifyVC title:@"分类" normaImgStr:@"category" selectImgStr:@"categorySele"];
     
     RankVC *rankVC = [[RankVC alloc] init];
-    [self addChildVC:rankVC title:@"排行" normaImgStr:@"rank" selectImgStr:@"rankSele"];
+    [self addChildVC:rankVC title:@"榜单" normaImgStr:@"rank" selectImgStr:@"rankSele"];
     
     MineVC *mineVC = [[MineVC alloc] init];
     [self addChildVC:mineVC title:@"我的" normaImgStr:@"mine" selectImgStr:@"mineSele"];
